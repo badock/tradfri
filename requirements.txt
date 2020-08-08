@@ -1,0 +1,4 @@
+git+https://github.com/ggravlingen/pytradfri.git
+rich
+flask
+flask_cors
